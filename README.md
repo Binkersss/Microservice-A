@@ -8,6 +8,7 @@ This microservice automatically logs keyboard activity, mouse clicks, and mouse 
 1. Download the microservice-a files
 2. Enter this command in terminal to install dependencies "pip install flask pynput"
 3. Start the microservice by entering the following command "python app.py"
+4. To stop the microservice, simply enter the following command in terminal CTRL+C 
 
 After starting the microservice, it will automatically create a "activity-log.json" file if one doesn't already exist. After creation, the microservice will begin logging keyboard and mouse activity into the JSON file every second
 
