@@ -55,9 +55,4 @@ Example Receive (Python)
 
 
 # UML SEQUENCE DIAGRAM
-
-
-
-
-
-
+![UML Sequence Diagram](uml-sequence.png)
