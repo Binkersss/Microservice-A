@@ -27,10 +27,12 @@ the "activity-log.json" file that is automatically updated every second by the m
 *** DO NOT MODIFY OR OVERWRITE THE JSON FILE ***
 
 Example Request (Python)
-    import json
-    with open("activity-log.json", "r") as file:
-       logs = json.load(file)
+```python
+import json
 
+with open("activity-log.json", "r") as file:
+    logs = json.load(file)
+```
 
 # How to RECEIVE data
 To receive data, the microservice will read and process the entires from the
