@@ -1,6 +1,6 @@
 # Microservice-A (Keyboard and Mouse Activity Tracker)
 
-This microservice automatically logs keyboard activity, mouse clicks, and mouse movement into a local "activity-log.json" file. Logging occurs once per second, but only when user input is detected. It is designed to support applications like Pomodoro timers by detecting signs of user distraction or inactivity.
+This microservice automatically logs keyboard activity, mouse clicks, and mouse movement into a local "activity-log.json" file. Logging occurs once per second, but only when user input is detected. It is designed to support applications like Pomodoro timers by detecting signs of user distraction.
 
 
 
