@@ -40,20 +40,18 @@ To receive data, the microservice will read and process the entires from the
 user activity and is structured as a JSON object inside a JSON array.
 
 Example Receive (Python)
-**    import json
-**
-**    with open("activity-log.json", "r") as file:
-**       logs = json.load(file)
-**
-**    for entry in logs:
-**        print(
-**            for entry in logs:
-**            timestamp = entry.get("timestamp", "N/A")
-**            clicks = entry.get("clicks", 0)
-**            keystrokes = entry.get("keystrokes", 0)
-**            print(f"{timestamp} — Clicks: {clicks}, Keystrokes: {keystrokes}")
+```python
+import json
 
+with open("activity-log.json", "r") as file:
+    logs = json.load(file)
 
+for entry in logs:
+    timestamp = entry.get("timestamp", "N/A")
+    clicks = entry.get("clicks", 0)
+    keystrokes = entry.get("keystrokes", 0)
+    print(f"{timestamp} — Clicks: {clicks}, Keystrokes: {keystrokes}")
+```
 
 # UML SEQUENCE DIAGRAM
 ![UML Sequence Diagram](uml-sequence.png)
