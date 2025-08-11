@@ -1,230 +1,212 @@
 [
   {
-    "timestamp": "2025-08-10T05:33:38.060604Z",
+    "timestamp": "2025-08-11T05:15:53.841239Z",
     "keystrokes": 0,
     "clicks": 0,
-    "movements": 15
+    "movements": 10
   },
   {
-    "timestamp": "2025-08-10T05:33:39.061148Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 37
-  },
-  {
-    "timestamp": "2025-08-10T05:33:40.061554Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 52
-  },
-  {
-    "timestamp": "2025-08-10T05:33:41.062085Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 55
-  },
-  {
-    "timestamp": "2025-08-10T05:33:42.062486Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 57
-  },
-  {
-    "timestamp": "2025-08-10T05:33:43.063194Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 40
-  },
-  {
-    "timestamp": "2025-08-10T05:33:44.063617Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 41
-  },
-  {
-    "timestamp": "2025-08-10T05:33:45.064124Z",
-    "keystrokes": 1,
-    "clicks": 1,
-    "movements": 34
-  },
-  {
-    "timestamp": "2025-08-10T05:35:05.081502Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 31
-  },
-  {
-    "timestamp": "2025-08-10T05:35:06.081938Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 19
-  },
-  {
-    "timestamp": "2025-08-10T05:35:07.082278Z",
-    "keystrokes": 1,
-    "clicks": 0,
-    "movements": 0
-  },
-  {
-    "timestamp": "2025-08-10T05:35:08.082606Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 24
-  },
-  {
-    "timestamp": "2025-08-10T05:35:11.083813Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 1
-  },
-  {
-    "timestamp": "2025-08-10T05:35:12.084354Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 7
-  },
-  {
-    "timestamp": "2025-08-10T05:35:38.090230Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 54
-  },
-  {
-    "timestamp": "2025-08-10T05:35:39.091297Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 9
-  },
-  {
-    "timestamp": "2025-08-10T05:35:41.091906Z",
-    "keystrokes": 0,
-    "clicks": 2,
-    "movements": 57
-  },
-  {
-    "timestamp": "2025-08-10T05:35:42.092339Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 59
-  },
-  {
-    "timestamp": "2025-08-10T05:35:43.092633Z",
-    "keystrokes": 0,
-    "clicks": 1,
-    "movements": 36
-  },
-  {
-    "timestamp": "2025-08-10T05:35:44.093034Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 27
-  },
-  {
-    "timestamp": "2025-08-10T05:35:45.094135Z",
-    "keystrokes": 1,
-    "clicks": 0,
-    "movements": 0
-  },
-  {
-    "timestamp": "2025-08-10T05:35:46.094610Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 29
-  },
-  {
-    "timestamp": "2025-08-10T05:35:47.095084Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 45
-  },
-  {
-    "timestamp": "2025-08-10T05:35:48.095579Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 38
-  },
-  {
-    "timestamp": "2025-08-10T05:35:52.096967Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 24
-  },
-  {
-    "timestamp": "2025-08-10T05:35:53.097593Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 22
-  },
-  {
-    "timestamp": "2025-08-10T05:35:56.099013Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 4
-  },
-  {
-    "timestamp": "2025-08-10T05:35:57.100304Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 135
-  },
-  {
-    "timestamp": "2025-08-10T05:35:58.101031Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 50
-  },
-  {
-    "timestamp": "2025-08-10T05:36:05.103419Z",
-    "keystrokes": 0,
-    "clicks": 0,
-    "movements": 53
-  },
-  {
-    "timestamp": "2025-08-10T05:36:06.104027Z",
+    "timestamp": "2025-08-11T05:16:54.854010Z",
     "keystrokes": 0,
     "clicks": 0,
     "movements": 58
   },
   {
-    "timestamp": "2025-08-10T05:36:07.104848Z",
+    "timestamp": "2025-08-11T05:17:03.856660Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 11
+  },
+  {
+    "timestamp": "2025-08-11T05:17:04.857288Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 1
+  },
+  {
+    "timestamp": "2025-08-11T05:17:05.858114Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 23
+  },
+  {
+    "timestamp": "2025-08-11T05:17:06.858953Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 15
+  },
+  {
+    "timestamp": "2025-08-11T05:17:57.870067Z",
     "keystrokes": 0,
     "clicks": 0,
     "movements": 38
   },
   {
-    "timestamp": "2025-08-10T05:36:08.105300Z",
+    "timestamp": "2025-08-11T05:17:58.870548Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 22
+  },
+  {
+    "timestamp": "2025-08-11T05:18:18.874222Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 13
+  },
+  {
+    "timestamp": "2025-08-11T05:18:19.874657Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 20
+  },
+  {
+    "timestamp": "2025-08-11T05:18:20.875443Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 6
+  },
+  {
+    "timestamp": "2025-08-11T05:18:21.875912Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 3
+  },
+  {
+    "timestamp": "2025-08-11T05:18:22.876308Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 19
+  },
+  {
+    "timestamp": "2025-08-11T05:18:23.877544Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 17
+  },
+  {
+    "timestamp": "2025-08-11T05:18:27.878284Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 8
+  },
+  {
+    "timestamp": "2025-08-11T05:18:29.879060Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 22
+  },
+  {
+    "timestamp": "2025-08-11T05:19:07.883922Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 10
+  },
+  {
+    "timestamp": "2025-08-11T05:19:08.884644Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 19
+  },
+  {
+    "timestamp": "2025-08-11T05:19:14.886107Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 11
+  },
+  {
+    "timestamp": "2025-08-11T05:19:15.886882Z",
+    "keystrokes": 3,
+    "clicks": 1,
+    "movements": 21
+  },
+  {
+    "timestamp": "2025-08-11T05:19:16.887829Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 11
+  },
+  {
+    "timestamp": "2025-08-11T05:20:55.903643Z",
+    "keystrokes": 0,
+    "clicks": 1,
+    "movements": 20
+  },
+  {
+    "timestamp": "2025-08-11T05:25:10.954068Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 23
+  },
+  {
+    "timestamp": "2025-08-11T05:25:11.955475Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 20
+  },
+  {
+    "timestamp": "2025-08-11T05:25:13.956779Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 14
+  },
+  {
+    "timestamp": "2025-08-11T05:30:30.019565Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 19
+  },
+  {
+    "timestamp": "2025-08-11T05:30:31.020157Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 18
+  },
+  {
+    "timestamp": "2025-08-11T05:30:32.020745Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 91
+  },
+  {
+    "timestamp": "2025-08-11T05:30:33.021532Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 71
+  },
+  {
+    "timestamp": "2025-08-11T05:30:34.022211Z",
     "keystrokes": 0,
     "clicks": 0,
     "movements": 104
   },
   {
-    "timestamp": "2025-08-10T05:36:09.105760Z",
+    "timestamp": "2025-08-11T05:30:35.023009Z",
     "keystrokes": 0,
     "clicks": 0,
-    "movements": 100
+    "movements": 26
   },
   {
-    "timestamp": "2025-08-10T05:36:10.106420Z",
+    "timestamp": "2025-08-11T05:30:36.024256Z",
     "keystrokes": 0,
     "clicks": 0,
-    "movements": 137
+    "movements": 37
   },
   {
-    "timestamp": "2025-08-10T05:36:11.106774Z",
+    "timestamp": "2025-08-11T05:35:51.085000Z",
     "keystrokes": 0,
     "clicks": 0,
-    "movements": 136
+    "movements": 45
   },
   {
-    "timestamp": "2025-08-10T05:36:12.107596Z",
-    "keystrokes": 1,
-    "clicks": 0,
-    "movements": 24
-  },
-  {
-    "timestamp": "2025-08-10T05:36:13.108165Z",
+    "timestamp": "2025-08-11T05:35:53.086573Z",
     "keystrokes": 0,
     "clicks": 0,
-    "movements": 1
+    "movements": 13
+  },
+  {
+    "timestamp": "2025-08-11T05:35:54.087179Z",
+    "keystrokes": 0,
+    "clicks": 0,
+    "movements": 11
   }
 ]

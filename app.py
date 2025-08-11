@@ -26,4 +26,4 @@ def get_activity_log():
     return jsonify(filtered_log)
 
 if __name__ == '__main__':
-    app.run(port=5001, debug=True)
+    app.run(port=5002, debug=True)
